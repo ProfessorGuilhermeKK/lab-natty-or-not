@@ -1,51 +1,78 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Como Criar um Currículo de um Profissional de Tecnologia da Informação
 
-## 🚀 Introdução
+## Introdução
+Criar um currículo eficaz é essencial para se destacar no competitivo mercado de trabalho de TI. Este eBook irá guiá-lo através das melhores práticas para criar um currículo que chame a atenção dos recrutadores e aumente suas chances de conseguir a vaga dos seus sonhos.
 
-> Woooow! Look at this 👀
+## Estrutura do Currículo
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+### 1. Cabeçalho
+Inclua seu nome completo, endereço, telefone e e-mail. Certifique-se de que suas informações de contato estão atualizadas.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+### 2. Resumo Profissional
+Escreva um breve resumo de suas qualificações e objetivos profissionais. Destaque suas principais habilidades e experiências relevantes.
 
-### Objetivos
+### 3. Experiência Profissional
+Liste suas experiências de trabalho em ordem cronológica inversa. Inclua o nome da empresa, seu cargo, período de trabalho e uma breve descrição de suas responsabilidades e conquistas.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+### 4. Formação Acadêmica
+Detalhe sua formação acadêmica, incluindo o nome da instituição, o curso e o ano de conclusão.
 
-### Template
+### 5. Certificações
+Adicione quaisquer certificações relevantes que você possua, como certificações em linguagens de programação, segurança da informação, entre outras.
+
+### 6. Habilidades Técnicas
+Liste suas habilidades técnicas, como linguagens de programação, ferramentas e tecnologias que você domina.
+
+### 7. Projetos
+Inclua projetos relevantes que você tenha desenvolvido, seja em trabalhos anteriores, freelances ou projetos pessoais. Descreva brevemente o objetivo do projeto e as tecnologias utilizadas.
+
+### 8. Informações Adicionais
+Adicione qualquer informação adicional que possa ser relevante, como participação em conferências, workshops, publicações, etc.
+
+## Linguagens de Programação Recomendadas
+
+### 1. Python
+Python é uma linguagem versátil e amplamente utilizada em diversas áreas, como desenvolvimento web, ciência de dados, inteligência artificial e automação[^1^][9].
+
+### 2. JavaScript
+JavaScript é essencial para o desenvolvimento front-end e é amplamente utilizado em frameworks como React, Angular e Vue.js[^1^][9].
+
+### 3. Java
+Java é uma linguagem robusta e amplamente utilizada em desenvolvimento de aplicações empresariais e Android[^1^][9].
+
+### 4. C#
+C# é uma linguagem poderosa usada principalmente no desenvolvimento de aplicações desktop e jogos com o Unity[^2^][10].
+
+### 5. SQL
+SQL é fundamental para gerenciamento de bancos de dados e é uma habilidade essencial para desenvolvedores back-end[^2^][10].
+
+### 6. Go
+Go é uma linguagem eficiente e ideal para desenvolvimento de sistemas distribuídos e aplicações de alta performance[^2^][10].
+
+## Conclusão
+Criar um currículo bem estruturado e destacar suas habilidades em linguagens de programação pode aumentar significativamente suas chances de conseguir uma vaga na área de TI. Lembre-se de revisar seu currículo regularmente e mantê-lo atualizado com suas novas habilidades e experiências.
+
+Boa sorte na sua jornada profissional!
+
+---
+
+Espero que este eBook seja útil para você. Se precisar de mais alguma coisa, estou à disposição!
+
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
+Como Criar um Currículo de um Profissional de Tecnologia da Informação
 ## 📒 Descrição
-Breve descrição do seu projeto
+ebook sobre criacao de curriculo para profissionais de TI
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot(bing)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+Criado via copilot do bing
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
 ![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
